@@ -1,5 +1,5 @@
-Projeto para o tech challenge
-DIGITAL INNOVATION ONE E BANCO CARREFOUR
+## tech challenge
+## DIGITAL INNOVATION ONE E BANCO CARREFOUR
 
 Projeto de bot no telegram com backend em python utilizando a API do telegram
 
